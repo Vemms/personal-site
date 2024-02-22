@@ -1,0 +1,10 @@
+body{background-color: rgba(179, 233, 235, 0.795);}
+hr{
+    width: 5%;
+    height: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: darkgray;}
+h1{color: #08acac;}
+h4{color: #1fbdbd;}
